@@ -1,11 +1,35 @@
-This is a minimal standalone (not needing any Arduino stuff) implementation of
-TrinketKeyboard for Adafruit's Trinket. Notes below apply. --Joonas Pihlajamaa
+This is a minimal standalone (not needing any Arduino stuff) implementation of @jokkebk's demo of yesteryear. Notes below apply. --Ian Daniher
 
-TrinketKeyboard is a part of Adafruit's Trinket/Gemma USB HID Arduino Library
+Props to Joonas Pihlajamaa, Adafruit.
 
-TrinketKeyboard allows the user to implement a simple USB keyboard inside the Arduino environment
 
-Please see TrinketKeyboard.h for usage documentation, an example is also included
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 TrinketKeyboard uses V-USB (http://www.obdev.at/products/vusb/) to implement USB with a bitbang technique. See the folder "usbdrv" for V-USB files.
 
