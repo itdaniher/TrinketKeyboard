@@ -2,7 +2,7 @@ This is a minimal standalone (not needing any Arduino stuff) implementation of @
 
 Props to Joonas Pihlajamaa, Adafruit.
 
-
+> sudo avrdude -C avrdude.conf -c usbtiny -p attiny85 -U flash:w:main.hex 
 
 
 
